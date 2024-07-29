@@ -26,19 +26,19 @@
 		   echo "I  am awesome.Irun always" 
 		   }
 	 
-	}
-	    post {
+	
+	    
 		 success {
 		   echo "I run when you are successful" 
 		   }
 	 
-	}
-	    post {
+	
+	   
 		 failure {
 		   echo "I  run when you fail" 
 		   }
 	 
-	}
-
+	
+}
 
 }
