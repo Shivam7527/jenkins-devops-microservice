@@ -27,13 +27,13 @@
 		   }
 	 
 	}
-	post {
+	    post {
 		 success {
 		   echo "I run when you are successful" 
 		   }
 	 
 	}
-	post {
+	    post {
 		 failure {
 		   echo "I  run when you fail" 
 		   }
